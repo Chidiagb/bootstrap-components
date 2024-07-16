@@ -1,4 +1,4 @@
-#A moving website created using bootstrap
+# A moving website created using bootstrap
 
 ![An image of the moving company](./moving-van.jpg)
 
